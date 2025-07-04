@@ -1,0 +1,10 @@
+[
+    {
+        "APP_HOME": false,
+        "APP_MOCK": false,
+        "APP_PRACTISE": false,
+        "APP_DASHBOARD": true,
+        "APP_SETTINGS": true,
+        "APP_TERMS": true
+    }
+]
